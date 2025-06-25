@@ -1,0 +1,8 @@
+
+
+<div class="block monster frame">
+<h4 id="Captain Jack's Tricorn Hat">Captain Jack's Tricorn Hat</h4>
+</em>Magical Item (Wondrous Item), Legendary (requires attunement)<em>
+Captain Jack's legendary tricorn hat is made of fine black leather, adorned with a skull and crossbones emblem, and has a weathered, swashbuckling look to it. It exudes an air of adventure and mischief.<h3 id="Abilities">Abilities</h3>
+</em><strong>Commanding Presence</strong><em> :: The wearer of Captain Jack's Tricorn Hat gains the ability to cast the Command spell (1st level) as an action, using the hat's charges. The hat has 3 charges, and it regains 1d3 charges at dawn. The wearer can use their Charisma modifier as the spellcasting ability for this spell.</dd></dl></em><strong>Pirate's Charm</strong><em> :: While wearing Captain Jack's Tricorn Hat, the wearer gains advantage on Charisma (Persuasion) checks made to interact with pirates, sailors, or others who are familiar with Captain Jack's legend. The hat also grants advantage on Charisma (Intimidation) checks made against enemies who are aware of Captain Jack's infamous reputation.</dd></dl></em><strong>Swashbuckler's Luck</strong><em> :: Once per long rest, the wearer of the hat can choose to reroll any one ability check, attack roll, or saving throw and take the higher result. This ability can be used after the roll, but before the outcome is determined.
+</div></dd>

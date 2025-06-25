@@ -1,0 +1,3 @@
+The settlement is known for its distinctive architecture, with buildings clinging to the mountainsides and bridges suspended high above the Veridian Chasms. From within the chasms, one can look up and see the intricate network of rope bridges left behind by climbers and prospectors, as well as the more permanent stone and wood bridges that connect Stormveil’s various districts.
+  
+The bridges of Stormveil offer a safer passage between the eastern and western ranges of the [[Tempestas Mountains]], connecting the community across the chasm and providing access to both the old mining tunnels and the lush interior of the [[Veridian Chasms]].

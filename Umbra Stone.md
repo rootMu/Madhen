@@ -1,0 +1,1 @@
+This pitch-black stone negates all magic that comes in contact with it. The [[Gilded Dominion]] controls the only known mine where Umbra Stone is extracted within the [[Shadowscar Gorge]] a place so harsh that being sent there is considered a fate worse than the colosseums.
